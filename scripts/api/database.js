@@ -25,5 +25,5 @@ const database = {
         { id: 4, style: "18-inch Pair Spoke Black", price: 750 }
     ],
 
- 
+}
  
